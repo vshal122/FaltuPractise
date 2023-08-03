@@ -5,3 +5,7 @@ I am git
 =======
 ddd
 >>>>>>> 633f922ab461bf317301cab4dba7d1b02bd06997
+
+
+
+git log file 
